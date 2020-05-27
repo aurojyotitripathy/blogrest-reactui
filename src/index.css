@@ -1,0 +1,16 @@
+.not-found {
+  background-color: white;
+  top: 0px;
+  align-content: center;
+  height: 100%;
+  width: 100%;
+}
+
+.centered-form {
+  margin-top: 60px;
+}
+
+.centered-form .panel {
+  background: rgba(255, 255, 255, 0.8);
+  box-shadow: rgba(0, 0, 0, 0.3) 20px 20px 20px;
+}
